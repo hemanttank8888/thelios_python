@@ -39,6 +39,6 @@ MYSQL_DATABASE = 'your-database-name'
 - Run the Scrapy spider to start scraping:
 
 ```bash
-scrapy crawl <spider-name>
-
+scrapy crawl TheliosDataSpider  
+# please replace with your spider name
 ```
