@@ -18,16 +18,14 @@ This project is built using the **Scrapy** library and is designed to scrape dat
 ## Installation
 - Clone this repository:
    ```bash
-   git clone `https://github.com/hemanttank8888/thelios_python.git`
+   git clone https://github.com/hemanttank8888/thelios_python.git
+   cd thelios_python
+   ```
+- Install the required dependencies
+  ```bash
+  pip install -r requirements.txt
+  ```
 
-## Go to the project directory
-
-`cd <project-directory>
-`
-## Install the required dependencies
-
-`pip install -r requirements.txt
-`
 ## Configuration
 
 ```Python
